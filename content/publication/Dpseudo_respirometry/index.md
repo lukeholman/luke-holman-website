@@ -7,7 +7,7 @@ draft = false
 authors = ["Martin D. Garlovsky", "Luke Holman", "Andrew L. Brooks", "Zorana K. Novicic", "Rhonda R. Snook"]
 
 # Publication type.
-# Legend:
+# Legend: 
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
